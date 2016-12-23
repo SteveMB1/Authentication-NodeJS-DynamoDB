@@ -10,6 +10,6 @@ Requires setup:
 - (2) DynamoDB tables
   - User credentials 
   - Session keys
-- Generate random key for variable key on line 9.
+- Generate random key for variable key on line 10.
 - Input AWS credentials
   
