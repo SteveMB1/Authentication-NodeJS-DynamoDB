@@ -12,4 +12,7 @@ Requires setup:
   - Session keys
 - Generate random key for variable key on line 10.
 - Input AWS credentials
+- Checking for session id. 
+  Insert the next line into a page that you want to require authentication for.
+  - checkSessionID(req.get('sessionId').toString());
   
