@@ -5,7 +5,6 @@ User authentication backend within NodeJS, for use for a custom built applicatio
 
 #### Features to be added:
 - Block IP address after 10 failed login attempts;
-- Input serialization.
 
 #### Requires setup:
 - (2) DynamoDB tables
